@@ -27,5 +27,5 @@
 
 # Author
 - **Smile**
-    - [Github](https://github.com/Smile_Pog)
+    - [Github](https://github.com/SmilePog)
     - [Dscord](https://discord.gg/Fxj9sHgcDP)
