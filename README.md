@@ -28,4 +28,4 @@
 # Author
 - **Smile**
     - [Github](https://github.com/Smile_Pog)
-    - [Dscord](Smile#3681)
+    - [Dscord](https://discord.gg/Fxj9sHgcDP)
